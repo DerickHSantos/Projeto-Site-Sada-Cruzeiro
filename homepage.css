@@ -1,0 +1,245 @@
+.homepage-container {
+  min-height: 100vh;
+}
+.homepage-homepage {
+  width: 1280px;
+  height: 720px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.homepage-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-text {
+  top: 25px;
+  left: 985px;
+  color: rgba(255, 255, 255, 1);
+  width: 303px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text02 {
+  top: 13px;
+  left: 17px;
+  color: rgba(255, 255, 255, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-rectangle2 {
+  top: 670px;
+  left: 0px;
+  width: 1440px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-text04 {
+  top: 675px;
+  left: 21px;
+  color: rgba(255, 255, 255, 1);
+  width: 323px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text06 {
+  top: 680px;
+  left: 815px;
+  color: rgba(255, 255, 255, 1);
+  width: 769px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.homepage-text69 {
+  top: 682px;
+  left: 359px;
+  color: rgba(255, 255, 255, 1);
+  width: 5px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.homepage-text08 {
+  top: 25px;
+  left: 491px;
+  color: rgba(255, 255, 255, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-text10 {
+  top: 25px;
+  left: 730px;
+  color: rgba(255, 255, 255, 1);
+  width: 256px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-rectangle5 {
+  top: 220px;
+  left: 31px;
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-text12 {
+  top: 317px;
+  left: 112px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-rectangle7 {
+  top: 380px;
+  left: 22px;
+  width: 370px;
+  height: 200px;
+  position: absolute;
+  border-color: transparent;
+}
+.homepage-text14 {
+  top: 280px;
+  left: 500px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.homepage-rectangle6 {
+  top: 120px;
+  left: 420px;
+  width: 830px;
+  height: 520px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.homepage-text16 {
+  top: 195px;
+  left: 445px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
